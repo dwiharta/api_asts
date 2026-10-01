@@ -1,0 +1,218 @@
+[
+    {
+        "name": "Dwii",
+        "email": "wijayaharta715@gmail.com",
+        "nisn": "1111111111",
+        "ttl": "Ponorogo",
+        "gender": "MALE",
+        "address": "Ponorogo",
+        "id": "6aab7d3fa9dca"
+    },
+    {
+        "id": 1,
+        "name": "Siti Aminah 964",
+        "email": "sitiaminah964@gmail.com",
+        "nisn": "7491206685",
+        "ttl": "MADIUN, 28 Agustus 2010",
+        "gender": "MALE",
+        "address": "Jl. Merdeka No. 18, Ponorogo"
+    },
+    {
+        "id": 2,
+        "name": "Siti Aminah 262",
+        "email": "sitiaminah262@gmail.com",
+        "nisn": "3266509722",
+        "ttl": "SURABAYA, 9 Agustus 2010",
+        "gender": "FEMALE",
+        "address": "Jl. Merdeka No. 15, Magetan"
+    },
+    {
+        "id": 3,
+        "name": "Siti Aminah 533",
+        "email": "sitiaminah533@gmail.com",
+        "nisn": "1237077093",
+        "ttl": "NGAWI, 23 Agustus 2010",
+        "gender": "FEMALE",
+        "address": "Jl. Merdeka No. 25, Malang"
+    },
+    {
+        "id": 4,
+        "name": "Siska Wati 235",
+        "email": "siskawati235@gmail.com",
+        "nisn": "1643648450",
+        "ttl": "MALANG, 5 Agustus 2010",
+        "gender": "FEMALE",
+        "address": "Jl. Merdeka No. 69, Ngawi"
+    },
+    {
+        "id": 6,
+        "name": "Siti Aminah 915",
+        "email": "sitiaminah915@gmail.com",
+        "nisn": "0295083661",
+        "ttl": "PONOROGO, 8 Agustus 2010",
+        "gender": "MALE",
+        "address": "Jl. Merdeka No. 93, Ngawi"
+    },
+    {
+        "id": 7,
+        "name": "Eko Nugroho 983",
+        "email": "ekonugroho983@gmail.com",
+        "nisn": "5533044451",
+        "ttl": "PACITAN, 26 Agustus 2010",
+        "gender": "FEMALE",
+        "address": "Jl. Merdeka No. 97, Ngawi"
+    },
+    {
+        "id": 8,
+        "name": "Budi Santoso 228",
+        "email": "budisantoso228@gmail.com",
+        "nisn": "8273310365",
+        "ttl": "MAGETAN, 10 Agustus 2010",
+        "gender": "MALE",
+        "address": "Jl. Merdeka No. 35, Magetan"
+    },
+    {
+        "id": 9,
+        "name": "Ahmad Dhani 894",
+        "email": "ahmaddhani894@gmail.com",
+        "nisn": "8795386153",
+        "ttl": "MAGETAN, 22 Agustus 2010",
+        "gender": "MALE",
+        "address": "Jl. Merdeka No. 63, Surabaya"
+    },
+    {
+        "id": 10,
+        "name": "Budi Santoso 261",
+        "email": "budisantoso261@gmail.com",
+        "nisn": "3744589365",
+        "ttl": "MADIUN, 26 Agustus 2010",
+        "gender": "FEMALE",
+        "address": "Jl. Merdeka No. 28, Madiun"
+    },
+    {
+        "id": 11,
+        "name": "Budi Santoso 713",
+        "email": "budisantoso713@gmail.com",
+        "nisn": "1165071450",
+        "ttl": "PACITAN, 9 Agustus 2010",
+        "gender": "FEMALE",
+        "address": "Jl. Merdeka No. 66, Pacitan"
+    },
+    {
+        "id": 12,
+        "name": "Putri Utami 245",
+        "email": "putriutami245@gmail.com",
+        "nisn": "3546837164",
+        "ttl": "MADIUN, 10 Agustus 2010",
+        "gender": "FEMALE",
+        "address": "Jl. Merdeka No. 60, Ngawi"
+    },
+    {
+        "id": 13,
+        "name": "Ahmad Dhani 634",
+        "email": "ahmaddhani634@gmail.com",
+        "nisn": "1646433384",
+        "ttl": "MADIUN, 18 Agustus 2010",
+        "gender": "MALE",
+        "address": "Jl. Merdeka No. 22, Surabaya"
+    },
+    {
+        "id": 14,
+        "name": "Dewi Lestari 887",
+        "email": "dewilestari887@gmail.com",
+        "nisn": "8821451354",
+        "ttl": "MADIUN, 9 Agustus 2010",
+        "gender": "MALE",
+        "address": "Jl. Merdeka No. 93, Madiun"
+    },
+    {
+        "id": 15,
+        "name": "Eko Nugroho 266",
+        "email": "ekonugroho266@gmail.com",
+        "nisn": "4913486020",
+        "ttl": "MADIUN, 22 Agustus 2010",
+        "gender": "MALE",
+        "address": "Jl. Merdeka No. 44, Madiun"
+    },
+    {
+        "id": 16,
+        "name": "Joko Widodo 254",
+        "email": "jokowidodo254@gmail.com",
+        "nisn": "3480223584",
+        "ttl": "PACITAN, 27 Agustus 2010",
+        "gender": "FEMALE",
+        "address": "Jl. Merdeka No. 83, Pacitan"
+    },
+    {
+        "id": 17,
+        "name": "Rian Pratama 955",
+        "email": "rianpratama955@gmail.com",
+        "nisn": "3785326559",
+        "ttl": "MADIUN, 4 Agustus 2010",
+        "gender": "FEMALE",
+        "address": "Jl. Merdeka No. 58, Surabaya"
+    },
+    {
+        "id": 18,
+        "name": "Eko Nugroho 448",
+        "email": "ekonugroho448@gmail.com",
+        "nisn": "9645733907",
+        "ttl": "MALANG, 11 Agustus 2010",
+        "gender": "FEMALE",
+        "address": "Jl. Merdeka No. 79, Surabaya"
+    },
+    {
+        "id": 19,
+        "name": "Ahmad Dhani 526",
+        "email": "ahmaddhani526@gmail.com",
+        "nisn": "4307282087",
+        "ttl": "MAGETAN, 16 Agustus 2010",
+        "gender": "MALE",
+        "address": "Jl. Merdeka No. 51, Madiun"
+    },
+    {
+        "id": 20,
+        "name": "Budi Santoso 386",
+        "email": "budisantoso386@gmail.com",
+        "nisn": "1136988318",
+        "ttl": "SURABAYA, 16 Agustus 2010",
+        "gender": "MALE",
+        "address": "Jl. Merdeka No. 50, Pacitan"
+    },
+    {
+        "id": 21,
+        "name": "Siska Wati 861",
+        "email": "siskawati861@gmail.com",
+        "nisn": "1081817934",
+        "ttl": "PONOROGO, 16 Agustus 2010",
+        "gender": "FEMALE",
+        "address": "Jl. Merdeka No. 19, Malang"
+    },
+    {
+        "id": 22,
+        "name": "Rian Pratama 183",
+        "email": "rianpratama183@gmail.com",
+        "nisn": "1446065965",
+        "ttl": "MADIUN, 20 Agustus 2010",
+        "gender": "FEMALE",
+        "address": "Jl. Merdeka No. 29, Malang"
+    },
+    {
+        "id": 23,
+        "name": "Ahmad Dhani 724",
+        "email": "ahmaddhani724@gmail.com",
+        "nisn": "6522110199",
+        "ttl": "PACITAN, 8 Agustus 2010",
+        "gender": "MALE",
+        "address": "Jl. Merdeka No. 78, Ngawi"
+    },
+    {
+        "id": 24,
+        "name": "Siska Wati 196",
+        "email": "siskawati196@gmail.com",
+        "nisn": "8505540533",
+        "ttl": "MADIUN, 12 Agustus 2010",
+        "gender": "FEMALE",
+        "address": "Jl. Merdeka No. 96, Malang"
+    }
+]
